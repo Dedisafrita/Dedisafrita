@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Dedisafrita
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Template website undangan pernikahan sederhana
 
-<!---
-Dedisafrita/Dedisafrita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##### Demo: <https://dewanakl.github.io/undangan/?to=Teman+teman+semua>
+
+##### Deployment API Vercel: [https://dikit.my.id/DeploymentApiVercel](https://dikit.my.id/DeploymentApiVercel)
+
+##### Deployment API Hosting: [https://dikit.my.id/DeploymentApiHosting](https://dikit.my.id/DeploymentApiHosting)
+
+### Tech stack
+
+- Bootstrap 5.3.2
+- AOS 2.3.4
+- Fontawsome 6.4.2
+- Normalize.css 8.0.1
+- Confetti 2.12.0
+- Google Fonts
+- Vanilla JS
+
+### Terima kasih banyak teman teman
